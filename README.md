@@ -13,4 +13,4 @@ very cool
 6. run the 'client.bat' file to connect.
 7. enjoy
 
-discord incase someone is retarded: Gordon Ramsay#1337
+discord incase someone is retarded: Gordon Ramsay#0417
